@@ -17,10 +17,9 @@ Copyright law establishes the basic terms of use that apply automatically to the
 
 Educators have always had a complicated relationship with copyright, mostly due to the complicated and ambigious definition of "fair use." But the internet has afforded significant new possibilities for educators to remix, remediate, and redistribute their own knowledge work and the work of others, and traditional copyright has come to represent a frustrating barrier for teachers who want to make as much knowledge as possible accessible to their students. Use the timeline exercise below to explore how the court cases of the 1990s brought this fundamental tension to a head. 
 
-````
-from IPython.display import IFrame
-IFrame('https://h5p.cwr.olemiss.edu/h5p/embed/66', 688, 775)
-````
+
+<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/66" width="688" height="775" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
 
 
 
