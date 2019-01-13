@@ -12,7 +12,7 @@ In this module, you will:
 ## 1. Copyright and the Internet
 Copyright applies to works of original authorship, which means works that are unique and not a copy of someone else’s work, and most of the time requires fixation in a tangible medium (written down, recorded, saved to your computer, etc.).
 
-Copyright law establishes the basic terms of use that apply automatically to these original works. These terms give the creator or owner of copyright certain exclusigit ve rights while also recognizing that users have certain rights to use these works without the need for a license or permission. 
+Copyright law establishes the basic terms of use that apply automatically to these original works. These terms give the creator or owner of copyright certain exclusive rights while also recognizing that users have certain rights to use these works without the need for a license or permission. 
 
 Educators have always had a complicated relationship with copyright, mostly due to the complicated and ambiguous definition of "fair use." But the internet has afforded significant new possibilities for educators to remix, remediate, and redistribute their own knowledge work and the work of others, and traditional copyright has come to represent a frustrating barrier for teachers who want to make as much knowledge as possible accessible to their students. Use the timeline exercise below to explore how the court cases of the 1990s brought this fundamental tension to a head. 
 
