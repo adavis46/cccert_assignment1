@@ -10,18 +10,17 @@ In this module, you will:
 - **Apply** open licenses to different works
 
 ## 1. Copyright and the Internet
-
 Copyright applies to works of original authorship, which means works that are unique and not a copy of someone else’s work, and most of the time requires fixation in a tangible medium (written down, recorded, saved to your computer, etc.).
 
 Copyright law establishes the basic terms of use that apply automatically to these original works. These terms give the creator or owner of copyright certain exclusigit ve rights while also recognizing that users have certain rights to use these works without the need for a license or permission. 
 
-Educators have always had a complicated relationship with copyright, mostly due to the complicated and ambigious definition of "fair use." But the internet has afforded significant new possibilities for educators to remix, remediate, and redistribute their own knowledge work and the work of others, and traditional copyright has come to represent a frustrating barrier for teachers who want to make as much knowledge as possible accessible to their students. Use the timeline exercise below to explore how the court cases of the 1990s brought this fundamental tension to a head. 
-
+Educators have always had a complicated relationship with copyright, mostly due to the complicated and ambiguous definition of "fair use." But the internet has afforded significant new possibilities for educators to remix, remediate, and redistribute their own knowledge work and the work of others, and traditional copyright has come to represent a frustrating barrier for teachers who want to make as much knowledge as possible accessible to their students. Use the timeline exercise below to explore how the court cases of the 1990s brought this fundamental tension to a head. 
 
 <iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/66" width="100%" height="700" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-## 2. Creative Commons
+Practicing Open Pedagogy and developing Open Educational Resources (OER) doesn't mean you have to be an expert in copyright law. The Open Culture community, and Creative Commons especially, have created tools and resources that are designed specifically to help educators navigate licensing and sharing educational materials. 
 
+## 2. Creative Commons
 Inspired by the value of Eldred’s goal to make more creative works freely available on the internet, and responding to a growing community of bloggers who were creating, remixing and sharing content, Lessig and others came up with an idea. They created a nonprofit organization called Creative Commons and, in 2002, they published the Creative Commons licenses—a set of free, public licenses that would allow creators to keep their copyrights while sharing their works on more flexible terms than the default “all rights reserved.” Copyright is automatic, whether you want it or not. And while some people want to reserve all of their rights, many want to share their work with the public more freely. The idea behind CC licensing was to create an easy way for creators who wanted to share their works in ways that were consistent with copyright law.
 
 From the start, Creative Commons licenses were intended to be used by creators all over the world. The CC founders were initially motivated by a piece of U.S. copyright legislation, but similarly restrictive copyright laws all over the world restricted how our shared culture and collective knowledge could be used, even while digital technologies and the internet have opened new ways for people to participate in culture and knowledge production.
@@ -31,19 +30,16 @@ Since Creative Commons was founded, much has changed in the way people share and
 In domains like textbook publishing, academic research, documentary film, and many more, restrictive copyright rules continue to inhibit creation, access, and remix. CC tools are helping to solve this problem. Today Creative Commons licenses are used by more than 1.4 billion works online across 9 million websites. The grand experiment that started more than 15 years ago has been a success, including in ways unimagined by CC’s founders.
 
 ### Show What you Know: Interactive Video 
-
 > Watch the interactive video below (based on ["A Shared Culture"](https://vimeo.com/13864570) from Creative Commons). Answer the questions in the video and use your responses to write this week's journal entry. 
 
 <iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/68" width="100%" height="448" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## 3. The Licenses
-
 Today, the CC licenses and public domain tools are used on more than 1.4 billion works, from songs to YouTube videos to scientific research. The licenses have helped a global movement come together around openness, collaboration, and shared human creativity. CC the nonprofit organization, once housed within the basement of Stanford Law School, now has a staff working around the world on a host of different projects in various domains.
 
 Different licenses are appropriate for different kinds of work. Use the interactive activity below to learn about each license type and start thinking about how they apply to your own work.
 
 ### Learn by Doing: Image Hotspots
-
 <iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/67" width="100%" height="1229" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 For educational work, not all of these licenses are considered "open." If you are developing or user Open Educational Resources, make sure to keep an eye out for ND licenses. Though it is possible to work with this content in an OER project, it presents a number of difficulties. 
@@ -53,7 +49,6 @@ For educational work, not all of these licenses are considered "open." If you ar
 Now that you've learned about each of the CC licenses, take this quiz to see if you can apply that knowledge. 
 
 ### Show What you Know: License Quiz
-
 <iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/70" width="100%" height="415" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## 4. Licensing your Existing Work
@@ -76,7 +71,6 @@ Should you put CC licenses on your existing course materials? We have all develo
 
 
 ## 5. Creative Commons Global Network and the Future
-
 Over the years, a global coalition of people has formed around Creative Commons and open licensing. This includes activists working on copyright reform around the globe, policymakers advancing policies mandating open access to research and data, and creators who share a core set of values. Most of the people and institutions who are part of the CC movement are not formally connected to Creative Commons.
 
 The [CC Global Network](https://network.creativecommons.org/) is just one player in the larger open movement, which includes Wikipedians, Mozillians, open access advocates, and many more.
@@ -92,24 +86,22 @@ By the end of 2017, there were over 1.4 billion CC-licensed works. The Creative 
 
 
 ## Licenses and Attributions
-
 ### CC licensed content, Original
-- Benefits of Open Licensing. Authored by: Andrew Davis.  Located at: https://docs.google.com/presentation/d/1Z8bm-wL5TedDDGNBWn8FF7W3O2P3g5A4NYCUJvnID6E/edit#slide=id.g42d56e809f_1_36. License: CC BY-SA: Attribution-ShareAlike
+- Benefits of Open Licensing. Authored by: Andrew Davis.  Located at: (https://docs.google.com/presentation/d/1Z8bm-wL5TedDDGNBWn8FF7W3O2P3g5A4NYCUJvnID6E/edit#slide=id.g42d56e809f_1_36)
 
 ### CC licensed content, Shared Previously
-- 1.4 Billion Creative Commons Works. Located at: https://stateof.creativecommons.org/. License: CC-BY: Attribution 
+- 1.4 Billion Creative Commons Works. Located at: (https://stateof.creativecommons.org/). License: CC-BY: Attribution 
 
-- Most Free/Least Free Licenses. Authored by: Cable Green. Located at: https://drive.google.com/file/d/0BymYUA-4kKX-cVFtUnZPSjRDTG8/view Project: Taking OER Mainstream. License: CC BY: Attribution
+- Most Free/Least Free Licenses. Authored by: Cable Green. Located at: (https://drive.google.com/file/d/0BymYUA-4kKX-cVFtUnZPSjRDTG8/view) Project: Taking OER Mainstream. License: CC BY: Attribution
 
 ### CC licensed content, Specific attribution
-- What is Creative Commons?. Provided by: Creative Commons. Located at: https://certificates.creativecommons.org/cccertedu/chapter/1-what-is-creative-commons/. Project: Creative Commons Certificate for Educators and Librarians. License: CC BY: Attribution
+- What is Creative Commons?. Provided by: Creative Commons. Located at: (https://certificates.creativecommons.org/cccertedu/chapter/1-what-is-creative-commons/). Project: Creative Commons Certificate for Educators and Librarians. License: CC BY: Attribution
 
-- Copyright Law. Provided by: Creative Commons. Located at: https://certificates.creativecommons.org/cccertedu/chapter/2-copyright-law/. Project: Creative Commons Certificate for Educators and Librarians. License: CC BY: Attribution
+- Copyright Law. Provided by: Creative Commons. Located at: (https://certificates.creativecommons.org/cccertedu/chapter/2-copyright-law/). Project: Creative Commons Certificate for Educators and Librarians. License: CC BY: Attribution
 
-- A Shared Culture. Authored by: Jesse Dylan. Located at: http://creativecommons.org/videos/a-shared-culture. License: CC BY-NC-SA: Attribution-NonCommercial-ShareAlike
+- A Shared Culture. Authored by: Jesse Dylan. Located at: (http://creativecommons.org/videos/a-shared-culture). License: CC BY-NC-SA: Attribution-NonCommercial-ShareAlike
 
 ---------------
-
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 See this module's [Github Repository](https://github.com/adavis46/cccert_assignment1) to download and reuse H5P exercises. 
