@@ -49,7 +49,7 @@ For educational work, not all of these licenses are considered "open." If you ar
 Now that you've learned about each of the CC licenses, take this quiz to see if you can apply that knowledge. 
 
 ### Show What you Know: License Quiz
-<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/70" width="100%" height="415" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/70" width="100%" height="550" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## 4. Licensing your Existing Work
 Should you put CC licenses on your existing course materials? We have all developed countless teaching resources over the years, but probably haven't thought much about applying licenses to them. Many institutions grant full copyright ownership of course materials to the faculty that create them (but check with your school's legal affairs office to be sure). 
