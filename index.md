@@ -87,19 +87,19 @@ By the end of 2017, there were over 1.4 billion CC-licensed works. The Creative 
 
 ## Licenses and Attributions
 ### CC licensed content, Original
-- Benefits of Open Licensing. Authored by: Andrew Davis.  Located at: (https://docs.google.com/presentation/d/1Z8bm-wL5TedDDGNBWn8FF7W3O2P3g5A4NYCUJvnID6E/edit#slide=id.g42d56e809f_1_36)
+- Benefits of Open Licensing. Authored by: Andrew Davis.  Located at: [https://docs.google.com/presentation/d/1Z8bm-wL5TedDDGNBWn8FF7W3O2P3g5A4NYCUJvnID6E/edit#slide=id.g42d56e809f_1_36](https://docs.google.com/presentation/d/1Z8bm-wL5TedDDGNBWn8FF7W3O2P3g5A4NYCUJvnID6E/edit#slide=id.g42d56e809f_1_36)
 
 ### CC licensed content, Shared Previously
-- 1.4 Billion Creative Commons Works. Located at: (https://stateof.creativecommons.org/). License: CC-BY: Attribution 
+- 1.4 Billion Creative Commons Works. Located at: [https://stateof.creativecommons.org/](https://stateof.creativecommons.org/). License: CC-BY: Attribution 
 
-- Most Free/Least Free Licenses. Authored by: Cable Green. Located at: (https://drive.google.com/file/d/0BymYUA-4kKX-cVFtUnZPSjRDTG8/view) Project: Taking OER Mainstream. License: CC BY: Attribution
+- Most Free/Least Free Licenses. Authored by: Cable Green. Located at: [https://drive.google.com/file/d/0BymYUA-4kKX-cVFtUnZPSjRDTG8/view](https://drive.google.com/file/d/0BymYUA-4kKX-cVFtUnZPSjRDTG8/view) Project: Taking OER Mainstream. License: CC BY: Attribution
 
 ### CC licensed content, Specific attribution
-- What is Creative Commons?. Provided by: Creative Commons. Located at: (https://certificates.creativecommons.org/cccertedu/chapter/1-what-is-creative-commons/). Project: Creative Commons Certificate for Educators and Librarians. License: CC BY: Attribution
+- What is Creative Commons?. Provided by: Creative Commons. Located at: [https://certificates.creativecommons.org/cccertedu/chapter/1-what-is-creative-commons/](https://certificates.creativecommons.org/cccertedu/chapter/1-what-is-creative-commons/). Project: Creative Commons Certificate for Educators and Librarians. License: CC BY: Attribution
 
-- Copyright Law. Provided by: Creative Commons. Located at: (https://certificates.creativecommons.org/cccertedu/chapter/2-copyright-law/). Project: Creative Commons Certificate for Educators and Librarians. License: CC BY: Attribution
+- Copyright Law. Provided by: Creative Commons. Located at: [https://certificates.creativecommons.org/cccertedu/chapter/2-copyright-law/](https://certificates.creativecommons.org/cccertedu/chapter/2-copyright-law/). Project: Creative Commons Certificate for Educators and Librarians. License: CC BY: Attribution
 
-- A Shared Culture. Authored by: Jesse Dylan. Located at: (http://creativecommons.org/videos/a-shared-culture). License: CC BY-NC-SA: Attribution-NonCommercial-ShareAlike
+- A Shared Culture. Authored by: Jesse Dylan. Located at: [http://creativecommons.org/videos/a-shared-culture](http://creativecommons.org/videos/a-shared-culture). License: CC BY-NC-SA: Attribution-NonCommercial-ShareAlike
 
 ---------------
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
