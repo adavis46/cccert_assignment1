@@ -16,7 +16,7 @@ Copyright law establishes the basic terms of use that apply automatically to the
 
 Educators have always had a complicated relationship with copyright, mostly due to the complicated and ambiguous definition of "fair use." But the internet has afforded significant new possibilities for educators to remix, remediate, and redistribute their own knowledge work and the work of others, and traditional copyright has come to represent a frustrating barrier for teachers who want to make as much knowledge as possible accessible to their students. Use the timeline exercise below to explore how the court cases of the 1990s brought this fundamental tension to a head. 
 
-<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/66" width="100%" height="700" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/66" width="100%" height="775" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Practicing Open Pedagogy and developing Open Educational Resources (OER) doesn't mean you have to be an expert in copyright law. The Open Culture community, and Creative Commons especially, have created tools and resources that are designed specifically to help educators navigate licensing and sharing educational materials. 
 
@@ -32,7 +32,7 @@ In domains like textbook publishing, academic research, documentary film, and ma
 ### Show What you Know: Interactive Video 
 > Watch the interactive video below (based on ["A Shared Culture"](https://vimeo.com/13864570) from Creative Commons). Answer the questions in the video and use your responses to write this week's journal entry. 
 
-<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/68" width="100%" height="448" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/68" width="100%" height="550" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## 3. The Licenses
 Today, the CC licenses and public domain tools are used on more than 1.4 billion works, from songs to YouTube videos to scientific research. The licenses have helped a global movement come together around openness, collaboration, and shared human creativity. CC the nonprofit organization, once housed within the basement of Stanford Law School, now has a staff working around the world on a host of different projects in various domains.
@@ -40,7 +40,7 @@ Today, the CC licenses and public domain tools are used on more than 1.4 billion
 Different licenses are appropriate for different kinds of work. Use the interactive activity below to learn about each license type and start thinking about how they apply to your own work.
 
 ### Learn by Doing: Image Hotspots
-<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/67" width="100%" height="1229" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/67" width="100%" height="1450" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 For educational work, not all of these licenses are considered "open." If you are developing or user Open Educational Resources, make sure to keep an eye out for ND licenses. Though it is possible to work with this content in an OER project, it presents a number of difficulties. 
 
