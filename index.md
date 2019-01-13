@@ -12,7 +12,7 @@ In this module, you will:
 ## 1. Copyright and the Internet
 Copyright applies to works of original authorship, which means works that are unique and not a copy of someone else’s work, and most of the time requires fixation in a tangible medium (written down, recorded, saved to your computer, etc.).
 
-Copyright law establishes the basic terms of use that apply automatically to these original works. These terms give the creator or owner of copyright certain exclusigit ve rights while also recognizing that users have certain rights to use these works without the need for a license or permission. 
+Copyright law establishes the basic terms of use that apply automatically to these original works. These terms give the creator or owner of copyright certain exclusive rights while also recognizing that users have certain rights to use these works without the need for a license or permission. 
 
 Educators have always had a complicated relationship with copyright, mostly due to the complicated and ambiguous definition of "fair use." But the internet has afforded significant new possibilities for educators to remix, remediate, and redistribute their own knowledge work and the work of others, and traditional copyright has come to represent a frustrating barrier for teachers who want to make as much knowledge as possible accessible to their students. Use the timeline exercise below to explore how the court cases of the 1990s brought this fundamental tension to a head. 
 
@@ -49,7 +49,7 @@ For educational work, not all of these licenses are considered "open." If you ar
 Now that you've learned about each of the CC licenses, take this quiz to see if you can apply that knowledge. 
 
 ### Show What you Know: License Quiz
-<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/70" width="100%" height="415" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/70" width="100%" height="550" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## 4. Licensing your Existing Work
 Should you put CC licenses on your existing course materials? We have all developed countless teaching resources over the years, but probably haven't thought much about applying licenses to them. Many institutions grant full copyright ownership of course materials to the faculty that create them (but check with your school's legal affairs office to be sure). 
@@ -67,7 +67,7 @@ Should you put CC licenses on your existing course materials? We have all develo
 - Join the scholarly conversation
 - Your work can to contribute to future classes.
 
-![Benefits of Open Licensing : Syllabus: Syllabus content is already shared and remixed. If we openly license them, the process would be more efficient and transparent. Students who want access to all faculty syllabi would be pleased, transfer equivalency decisions would be easier, Handouts and Notes: Licensing and sharing documents in a structured way ensures that useful content is never lost. How many times have you found a good resource on the copier? Licensing would allow collaboration and enrichment rather than simple covert copying, Videos and Media: Licensing would encourage sharing access to source material. Teachers could adapt and customize multimedia content instead of just using it and telling students to ignore the random person narrating the video.](media/benefits.png)
+![Benefits of Open Licensing : Syllabus: Syllabus content is already shared and remixed. If we openly license them, the process would be more efficient and transparent. Students who want access to all faculty syllabi would be pleased, transfer equivalency decisions would be easier, Handouts and Notes: Licensing and sharing documents in a structured way ensures that useful content is never lost. How many times have you found a good resource on the copier? Licensing would allow collaboration and enrichment rather than simple covert copying, Videos and Media: Licensing would encourage sharing access to source material. Teachers could adapt and customize multimedia content instead of just using it and telling students to ignore the random person narrating the video.](media/benefits.PNG)
 
 
 ## 5. Creative Commons Global Network and the Future
