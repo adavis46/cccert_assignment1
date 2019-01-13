@@ -13,12 +13,12 @@ In this module, you will:
 
 Copyright applies to works of original authorship, which means works that are unique and not a copy of someone else’s work, and most of the time requires fixation in a tangible medium (written down, recorded, saved to your computer, etc.).
 
-Copyright law establishes the basic terms of use that apply automatically to these original works. These terms give the creator or owner of copyright certain exclusive rights while also recognizing that users have certain rights to use these works without the need for a license or permission. 
+Copyright law establishes the basic terms of use that apply automatically to these original works. These terms give the creator or owner of copyright certain exclusigit ve rights while also recognizing that users have certain rights to use these works without the need for a license or permission. 
 
 Educators have always had a complicated relationship with copyright, mostly due to the complicated and ambigious definition of "fair use." But the internet has afforded significant new possibilities for educators to remix, remediate, and redistribute their own knowledge work and the work of others, and traditional copyright has come to represent a frustrating barrier for teachers who want to make as much knowledge as possible accessible to their students. Use the timeline exercise below to explore how the court cases of the 1990s brought this fundamental tension to a head. 
 
 
-<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/66" width="688" height="700" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/66" width="100%" height="700" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## 2. Creative Commons
 
@@ -34,7 +34,7 @@ In domains like textbook publishing, academic research, documentary film, and ma
 
 > Watch the interactive video below (based on ["A Shared Culture"](https://vimeo.com/13864570) from Creative Commons). Answer the questions in the video and use your responses to write this week's journal entry. 
 
-<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/68" width="688" height="448" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/68" width="100%" height="448" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## 3. The Licenses
 
@@ -44,7 +44,7 @@ Different licenses are appropriate for different kinds of work. Use the interact
 
 ### Learn by Doing: Image Hotspots
 
-<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/67" width="688" height="1229" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/67" width="100%" height="1229" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 For educational work, not all of these licenses are considered "open." If you are developing or user Open Educational Resources, make sure to keep an eye out for ND licenses. Though it is possible to work with this content in an OER project, it presents a number of difficulties. 
 
@@ -54,7 +54,7 @@ Now that you've learned about each of the CC licenses, take this quiz to see if 
 
 ### Show What you Know: License Quiz
 
-<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/70" width="688" height="415" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/70" width="100%" height="415" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## 4. Licensing your Existing Work
 Should you put CC licenses on your existing course materials? We have all developed countless teaching resources over the years, but probably haven't thought much about applying licenses to them. Many institutions grant full copyright ownership of course materials to the faculty that create them (but check with your school's legal affairs office to be sure). 
@@ -111,3 +111,5 @@ By the end of 2017, there were over 1.4 billion CC-licensed works. The Creative 
 ---------------
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+See this module's [Github Repository](https://github.com/adavis46/cccert_assignment1) to download and reuse H5P exercises. 
