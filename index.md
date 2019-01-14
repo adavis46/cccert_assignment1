@@ -42,7 +42,7 @@ Today, the CC licenses and public domain tools are used on more than 1.4 billion
 Different licenses are appropriate for different kinds of work. Use the interactive activity below to learn about each license type and start thinking about how they apply to your own work.
 
 ### Learn by Doing: Image Hotspots
-<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/67" width="500" height="800" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/67" width="500" height="900" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 For educational work, not all of these licenses are considered "open." If you are developing or user Open Educational Resources, make sure to keep an eye out for ND licenses. Though it is possible to work with this content in an OER project, it presents a number of difficulties. 
 
@@ -87,7 +87,7 @@ By the end of 2017, there were over 1.4 billion CC-licensed works. The Creative 
 
 
 ## Module Quiz 
-> Note: Because this demonstration module is not attached to an LMS, quiz scores are collected anonymously in [Open Assessments](https://www.openassessments.org).
+> Developer's Note: Because this demonstration module is not attached to an LMS, quiz scores are collected anonymously in [Open Assessments](https://www.openassessments.org).
 
  <iframe id="openassessments_container" src="//www.openassessments.org/assessments/load?confidence_levels=true&src_url=https://www.openassessments.org/api/assessments/1518.xml&results_end_point=https://www.openassessments.org/api&assessment_id=1518&eid=idad6cbd232c482012b065d83b2ab3517" frameborder="0" style="border:none;width:100%;height:100%;min-height:400px;"></iframe>
 
