@@ -321,7 +321,7 @@
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>original_answer_ids</fieldlabel>
-              <fieldentry>5825,9570,8103,3179,8444</fieldentry>
+              <fieldentry>9570,8103,3179,8444</fieldentry>
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>assessment_question_identifierref</fieldlabel>
@@ -335,11 +335,6 @@
           </material>
           <response_lid ident="response1" rcardinality="Single">
             <render_choice>
-              <response_label ident="5825">
-                <material>
-                  <mattext texttype="text/plain"></mattext>
-                </material>
-              </response_label>
               <response_label ident="9570">
                 <material>
                   <mattext texttype="text/plain">You must give the creator of the content something of equal value in return.</mattext>
