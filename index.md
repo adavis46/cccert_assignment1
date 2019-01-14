@@ -34,6 +34,8 @@ In domains like textbook publishing, academic research, documentary film, and ma
 
 <iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/68" width="100%" height="550" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+> Developer's Note: The H5P interactive video content type doesn't support YouTube closed captions (yet). If this module ever went into production, I would upload a copy of the video with the captions added. 
+
 ## 3. The Licenses
 Today, the CC licenses and public domain tools are used on more than 1.4 billion works, from songs to YouTube videos to scientific research. The licenses have helped a global movement come together around openness, collaboration, and shared human creativity. CC the nonprofit organization, once housed within the basement of Stanford Law School, now has a staff working around the world on a host of different projects in various domains.
 
