@@ -87,7 +87,7 @@ By the end of 2017, there were over 1.4 billion CC-licensed works. The Creative 
 ## Module Quiz 
 > Note: Because this demonstration module is not attached to an LMS, quiz scores are collected anonymously in [Open Assessments](https://www.openassessments.org).
 
- <iframe id="openassessments_container" src="//www.openassessments.org/assessments/load?confidence_levels=true&src_url=https://www.openassessments.org/api/assessments/1515.xml&results_end_point=https://www.openassessments.org/api&assessment_id=1515&eid=idad6cbd232c482012b065d83b2ab3517" frameborder="0" style="border:none;width:100%;height:100%;min-height:400px;"></iframe>
+ <iframe id="openassessments_container" src="//www.openassessments.org/assessments/load?confidence_levels=true&src_url=https://www.openassessments.org/api/assessments/1516.xml&results_end_point=https://www.openassessments.org/api&assessment_id=1516&eid=idad6cbd232c482012b065d83b2ab3517" frameborder="0" style="border:none;width:100%;height:100%;min-height:500px;"></iframe>
 
 
 ## Licenses and Attributions
