@@ -40,7 +40,7 @@ Today, the CC licenses and public domain tools are used on more than 1.4 billion
 Different licenses are appropriate for different kinds of work. Use the interactive activity below to learn about each license type and start thinking about how they apply to your own work.
 
 ### Learn by Doing: Image Hotspots
-<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/67" width="500" height="800" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://h5p.cwr.olemiss.edu/h5p/embed/67" width="500" height="900" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 For educational work, not all of these licenses are considered "open." If you are developing or user Open Educational Resources, make sure to keep an eye out for ND licenses. Though it is possible to work with this content in an OER project, it presents a number of difficulties. 
 
