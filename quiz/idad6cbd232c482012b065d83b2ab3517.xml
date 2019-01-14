@@ -83,7 +83,7 @@
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>original_answer_ids</fieldlabel>
-              <fieldentry>6977,3853,4142,3516</fieldentry>
+              <fieldentry>3853,4142,3516,7493</fieldentry>
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>assessment_question_identifierref</fieldlabel>
@@ -97,11 +97,6 @@
           </material>
           <response_lid ident="response1" rcardinality="Single">
             <render_choice>
-              <response_label ident="6977">
-                <material>
-                  <mattext texttype="text/plain">The internet allows creators to easily modify, remix, and redistribute content.</mattext>
-                </material>
-              </response_label>
               <response_label ident="3853">
                 <material>
                   <mattext texttype="text/plain">The internet cannot host copyrighted works</mattext>
@@ -117,6 +112,11 @@
                   <mattext texttype="text/plain">There is no clash. Copyright law doesn't apply to the internet.</mattext>
                 </material>
               </response_label>
+              <response_label ident="7493">
+                <material>
+                  <mattext texttype="text/plain">The internet allows creators to easily modify, remix, and redistribute content.</mattext>
+                </material>
+              </response_label>
             </render_choice>
           </response_lid>
         </presentation>
@@ -126,7 +126,7 @@
           </outcomes>
           <respcondition continue="No">
             <conditionvar>
-              <varequal respident="response1">6977</varequal>
+              <varequal respident="response1">7493</varequal>
             </conditionvar>
             <setvar action="Set" varname="SCORE">100</setvar>
           </respcondition>
@@ -145,7 +145,7 @@
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>original_answer_ids</fieldlabel>
-              <fieldentry>6251,6025,3639,6198</fieldentry>
+              <fieldentry>6025,3639,6198,1797</fieldentry>
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>assessment_question_identifierref</fieldlabel>
@@ -159,11 +159,6 @@
           </material>
           <response_lid ident="response1" rcardinality="Single">
             <render_choice>
-              <response_label ident="6251">
-                <material>
-                  <mattext texttype="text/plain">70 years</mattext>
-                </material>
-              </response_label>
               <response_label ident="6025">
                 <material>
                   <mattext texttype="text/plain">50 years</mattext>
@@ -171,10 +166,15 @@
               </response_label>
               <response_label ident="3639">
                 <material>
-                  <mattext texttype="text/plain">2 years</mattext>
+                  <mattext texttype="text/plain">70 years</mattext>
                 </material>
               </response_label>
               <response_label ident="6198">
+                <material>
+                  <mattext texttype="text/plain">2 years</mattext>
+                </material>
+              </response_label>
+              <response_label ident="1797">
                 <material>
                   <mattext texttype="text/plain">The act made copyright never expire.</mattext>
                 </material>
@@ -188,7 +188,7 @@
           </outcomes>
           <respcondition continue="No">
             <conditionvar>
-              <varequal respident="response1">6251</varequal>
+              <varequal respident="response1">3639</varequal>
             </conditionvar>
             <setvar action="Set" varname="SCORE">100</setvar>
           </respcondition>
@@ -207,7 +207,7 @@
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>original_answer_ids</fieldlabel>
-              <fieldentry>117,3016,1423,4443</fieldentry>
+              <fieldentry>3016,1423,4443,5023</fieldentry>
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>assessment_question_identifierref</fieldlabel>
@@ -221,11 +221,6 @@
           </material>
           <response_lid ident="response1" rcardinality="Single">
             <render_choice>
-              <response_label ident="117">
-                <material>
-                  <mattext texttype="text/plain">complement</mattext>
-                </material>
-              </response_label>
               <response_label ident="3016">
                 <material>
                   <mattext texttype="text/plain">negate</mattext>
@@ -233,10 +228,15 @@
               </response_label>
               <response_label ident="1423">
                 <material>
-                  <mattext texttype="text/plain">ignore</mattext>
+                  <mattext texttype="text/plain">complement</mattext>
                 </material>
               </response_label>
               <response_label ident="4443">
+                <material>
+                  <mattext texttype="text/plain">ignore</mattext>
+                </material>
+              </response_label>
+              <response_label ident="5023">
                 <material>
                   <mattext texttype="text/plain">violate</mattext>
                 </material>
@@ -250,7 +250,7 @@
           </outcomes>
           <respcondition continue="No">
             <conditionvar>
-              <varequal respident="response1">117</varequal>
+              <varequal respident="response1">1423</varequal>
             </conditionvar>
             <setvar action="Set" varname="SCORE">100</setvar>
           </respcondition>
@@ -321,7 +321,7 @@
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>original_answer_ids</fieldlabel>
-              <fieldentry>5390,5825,9570,8103</fieldentry>
+              <fieldentry>5825,9570,8103,3179,8444</fieldentry>
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>assessment_question_identifierref</fieldlabel>
@@ -335,14 +335,9 @@
           </material>
           <response_lid ident="response1" rcardinality="Single">
             <render_choice>
-              <response_label ident="5390">
-                <material>
-                  <mattext texttype="text/plain">If you share, remix, or redistribute the content, the original license must be in tact.</mattext>
-                </material>
-              </response_label>
               <response_label ident="5825">
                 <material>
-                  <mattext texttype="text/plain">You must pay royalities to the creator of the content.</mattext>
+                  <mattext texttype="text/plain"></mattext>
                 </material>
               </response_label>
               <response_label ident="9570">
@@ -355,6 +350,16 @@
                   <mattext texttype="text/plain">You are not allowed to make money off the content.</mattext>
                 </material>
               </response_label>
+              <response_label ident="3179">
+                <material>
+                  <mattext texttype="text/plain">If you share, remix, or redistribute the content, the original license must be in tact.</mattext>
+                </material>
+              </response_label>
+              <response_label ident="8444">
+                <material>
+                  <mattext texttype="text/plain">You must pay royalities to the creator of the content.</mattext>
+                </material>
+              </response_label>
             </render_choice>
           </response_lid>
         </presentation>
@@ -364,7 +369,7 @@
           </outcomes>
           <respcondition continue="No">
             <conditionvar>
-              <varequal respident="response1">5390</varequal>
+              <varequal respident="response1">3179</varequal>
             </conditionvar>
             <setvar action="Set" varname="SCORE">100</setvar>
           </respcondition>
@@ -445,7 +450,7 @@
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>original_answer_ids</fieldlabel>
-              <fieldentry>9990,2884,6233,969</fieldentry>
+              <fieldentry>2884,6233,969,5101</fieldentry>
             </qtimetadatafield>
             <qtimetadatafield>
               <fieldlabel>assessment_question_identifierref</fieldlabel>
@@ -459,11 +464,6 @@
           </material>
           <response_lid ident="response1" rcardinality="Single">
             <render_choice>
-              <response_label ident="9990">
-                <material>
-                  <mattext texttype="text/plain">1.4 Billion</mattext>
-                </material>
-              </response_label>
               <response_label ident="2884">
                 <material>
                   <mattext texttype="text/plain">1,400</mattext>
@@ -479,6 +479,11 @@
                   <mattext texttype="text/plain">14 Billion</mattext>
                 </material>
               </response_label>
+              <response_label ident="5101">
+                <material>
+                  <mattext texttype="text/plain">1.4 Billion</mattext>
+                </material>
+              </response_label>
             </render_choice>
           </response_lid>
         </presentation>
@@ -488,7 +493,7 @@
           </outcomes>
           <respcondition continue="No">
             <conditionvar>
-              <varequal respident="response1">9990</varequal>
+              <varequal respident="response1">5101</varequal>
             </conditionvar>
             <setvar action="Set" varname="SCORE">100</setvar>
           </respcondition>
